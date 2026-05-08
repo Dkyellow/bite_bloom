@@ -89,7 +89,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const loader = submitBtn.querySelector(".loader");
   const feedback = quoteForm.querySelector(".form-feedback");
 
-  const WHATSAPP_NUMBER = "263781313406"; // Bite & Bloom WhatsApp number
+  const WHATSAPP_NUMBER = "263780570390"; // Bite & Bloom WhatsApp number
 
   quoteForm.addEventListener("submit", (e) => {
     e.preventDefault();
